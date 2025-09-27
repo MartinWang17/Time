@@ -1,0 +1,117 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# React Native / Expo
+time-app/node_modules/
+time-app/.expo/
+time-app/dist/
+time-app/npm-debug.*
+time-app/*.jks
+time-app/*.p8
+time-app/*.p12
+time-app/*.key
+time-app/*.mobileprovision
+time-app/*.orig.*
+time-app/web-build/
+time-app/.env.local
+time-app/.env.development.local
+time-app/.env.test.local
+time-app/.env.production.local
+
+# Python Backend
+time-backend/__pycache__/
+time-backend/*.py[cod]
+time-backend/*$py.class
+time-backend/*.so
+time-backend/.Python
+time-backend/build/
+time-backend/develop-eggs/
+time-backend/dist/
+time-backend/downloads/
+time-backend/eggs/
+time-backend/.eggs/
+time-backend/lib/
+time-backend/lib64/
+time-backend/parts/
+time-backend/sdist/
+time-backend/var/
+time-backend/wheels/
+time-backend/*.egg-info/
+time-backend/.installed.cfg
+time-backend/*.egg
+time-backend/MANIFEST
+
+# Virtual environments
+time-backend/venv/
+time-backend/.venv/
+time-backend/ENV/
+time-backend/env/
+time-backend/.env
+time-backend/venv.bak/
+
+# MyPy
+time-backend/.mypy_cache/
+time-backend/.dmypy.json
+time-backend/dmypy.json
+
+# Pytest
+time-backend/.pytest_cache/
+
+# Coverage reports
+time-backend/htmlcov/
+time-backend/.tox/
+time-backend/.coverage
+time-backend/.coverage.*
+time-backend/coverage.xml
+time-backend/*.cover
+time-backend/.hypothesis/
+
+# Database
+time-backend/*.db
+time-backend/*.sqlite
+time-backend/*.sqlite3
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Temporary folders
+tmp/
+temp/
